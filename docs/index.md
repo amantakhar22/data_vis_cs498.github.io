@@ -1,0 +1,2 @@
+About - This presentation shows the trend of Age adjusted death rates from the year 2003 to 2013 distributed accross states.
+Nearly 75 percent of all deaths in the United States are attributed to just ten causes, with the top four of these accounting for over 50 percent of all deaths which will be visualized in this presentations.
